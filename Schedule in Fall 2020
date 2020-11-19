@@ -1,0 +1,63 @@
+<html>
+<head>
+<style>
+table, th, td{
+  border: 3px solid black;
+  border-collapse: collapse; 
+  background-color: AliceBlue; 
+}
+</style> 
+</head>
+<body>
+  <p style="font-size:20px;font-family:Lucida Bright"><b>Annie Chen</b><br>112117179</p> 
+  <Header style="text-align:center"> 
+    <h1 style="font-size:35px;font-family:Sanchez">September 2020</h1></header>
+  <table style="width:100%">
+    <tr>
+      <th style="background-color:#006699;font-size:20px"><b><br>Sunday<br><br></b></th>
+      <th style="background-color:#006699;font-size:20px"><b><br>Monday<br><br></b></th>
+      <th style="background-color:#006699;font-size:20px"><b><br>Tuesday<br><br></b></th>
+      <th style="background-color:#006699;font-size:20px"><b><br>Wednesday<br><br></b></th>
+      <th style="background-color:#006699;font-size:20px"><b><br>Thurday<br><br></b></th>
+      <th style="background-color:#006699;font-size:20px"><b><br>Friday<br><br></b></th>
+      <th style="background-color:#006699;font-size:20px"><b><br>Saturday<br><br></b></th>
+    </tr>
+    <tr style="text-align:center">
+      <td><b></b></td>
+      <td style="background-color:#D6ECFD"><b><br>AMS 310 - 02</b><br>Survey of Probability and Statistics<br>10:30 - 11:50 AM</br></td>
+      <td style="background-color:#D6ECFD"><b><br>CSE 300 - 04</b><br>Technical Communications<br>9:45 - 11:05 AM</br></br></td>
+      <td style="background-color:#D6ECFD"><b><br>AMS 310 - 02</b><br>Survey of Probability and Statistics<br>10:30 - 11:50AM</br></br></td>
+      <td style="background-color:#D6ECFD"><b><br>CSE 300 - 04</b><br>Technical Communications<br>9:45 - 11:05 AM</br></br></td>
+<td></td> 
+<td></td> 
+    </tr>
+    <tr style="text-align:center">
+      <td></td>
+      <td></td>
+      <td style="background-color:#D6ECFD"><b><br>CSE 303 - 01</b><br>Intro to Theory of Computation<br>1:15 - 2:35 PM<br><br></td>
+      <td></td>
+      <td style="background-color:#D6ECFD"><b><br>CSE 303 - 01</b><br>Intro to Theory of Computation<br>1:15 - 2:35 PM<br><br></td>
+<td></td> 
+<td></td> 
+    </tr>
+    <tr style="text-align:center">
+      <td></td>
+      <td></td>
+      <td style="background-color:#D6ECFD"><b><br>CSE 373 - 01</b><br>Analysis of Algorithms<br>3:00 - 4:30 PM<br><br></td>
+      <td></td>
+      <td style="background-color:#D6ECFD"><b><br>CSE 373 - 01</b><br>Analysis of Algorithms<br>3:00 - 4:30 PM<br><br></td>
+<td></td> 
+<td></td> 
+    </tr>
+    <tr style="text-align:center">
+      <td></td>
+      <td></td>
+      <td style="background-color:#D6ECFD"><b><br>CSE 316 - 01</b><br> Software Development<br>4:45 - 6:05 PM<br><br> </td>
+      <td></td>
+      <td style="background-color:#D6ECFD"><b><br>CSE 316 - 01</b><br> Software Development<br>4:45 - 6:05 PM <br><br></td>
+<td></td> 
+<td></td> 
+    </tr>
+  </table>
+</body>
+</html>
